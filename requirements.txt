@@ -1,0 +1,12 @@
+langchain-openai
+langchain[docarray]
+pandas
+numpy
+pypdf
+yt_dlp
+bs4
+Chroma
+chromadb
+panel
+jupyter_bokeh
+#-e .

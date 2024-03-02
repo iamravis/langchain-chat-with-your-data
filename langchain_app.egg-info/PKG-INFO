@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: langchain-app
+Version: 0.1
+Author: Ravi Shankar
+Author-email: rsps1001@gmail.com
+Requires-Dist: langchain
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: openai
+Requires-Dist: pypdf
