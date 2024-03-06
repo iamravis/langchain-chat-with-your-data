@@ -128,7 +128,7 @@ ENV/
 env.bak/
 venv.bak/
 prompts/
-images/
+
 
 # Spyder project settings
 .spyderproject
