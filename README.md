@@ -5,7 +5,7 @@
 - This bot answers the questions regarding parenthood.
 - It is using specific prompts which is used to format the response.
 
-![Screenshot](bot1.png)
+![Screenshot](images/bot1.png)
 
 #### BOT 2 - Parenthood for new parents (Answers from expert using own data)
 
