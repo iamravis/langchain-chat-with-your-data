@@ -1,12 +1,6 @@
-langchain-openai
-langchain[docarray]
-pandas
-numpy
-pypdf
-yt_dlp
-bs4
-Chroma
+openai
+langchain
+streamlit
+#faiss-cpu
 chromadb
-panel
-jupyter_bokeh
-#-e .
+dill
