@@ -1,6 +1,6 @@
+python_version==['3.8','3.9',3.10]
 openai
 langchain
 streamlit
-#faiss-cpu
 chromadb
 dill
